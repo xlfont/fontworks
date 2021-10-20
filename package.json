@@ -1,0 +1,10 @@
+{
+  "name": "@xlfont/fontworks",
+  "version": "1.0.0",
+  "description": "原始來源: https://github.com/fontworks-fonts",
+  "author": "",
+  "license": "OFL",
+  "devDependencies": {
+    "@xlfont/load": "^1.0.10"
+  }
+}

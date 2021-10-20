@@ -1,0 +1,74 @@
+- name: Train One
+  category: display
+  subsets:
+   - cjk
+  style:
+    normal:
+      - filename: dist/TrainOne-Regular
+        codes: 4356
+        weight: 400
+        xfl: true
+- name: Klee One
+  category: sans serif
+  subsets:
+   - cjk
+  style:
+    normal:
+      - filename: dist/KleeOne-Regular
+        codes: 10178
+        weight: 400
+        xfl: true
+      - filename: dist/KleeOne-SemiBold
+        codes: 10178
+        weight: 600
+        xfl: true
+- name: DotGothic16
+  category: display
+  subsets:
+   - cjk
+  style:
+    normal:
+      - filename: dist/DotGothic16-Regular
+        codes: 8231
+        weight: 400
+        xfl: true
+- name: Rampart One
+  category: display
+  subsets:
+   - cjk
+  style:
+    normal:
+      - filename: dist/RampartOne-Regular
+        codes: 8231
+        weight: 400
+        xfl: true
+- name: Reggae One
+  category: display
+  subsets:
+   - cjk
+  style:
+    normal:
+      - filename: dist/ReggaeOne-Regular
+        codes: 8231
+        weight: 400
+        xfl: true
+- name: RocknRoll One
+  category: display
+  subsets:
+   - cjk
+  style:
+    normal:
+      - filename: dist/RocknRollOne-Regular
+        codes: 8230
+        weight: 400
+        xfl: true
+- name: Stick
+  category: display
+  subsets:
+   - cjk
+  style:
+    normal:
+      - filename: dist/Stick-Regular
+        codes: 8230
+        weight: 400
+        xfl: true

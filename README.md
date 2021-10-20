@@ -1,0 +1,26 @@
+# fontworks fonts for xlfont
+
+ - Fontworks repos: https://github.com/fontworks-fonts
+ - source and version:
+   - Rampart
+     - src: https://github.com/fontworks-fonts/Rampart
+     - version: 1.000 ( 2021/06/23 )
+   - Train
+     - src: https://github.com/fontworks-fonts/Train
+     - version: 2972a98 ( 2021/06/24 )
+   - Klee
+     - src: https://github.com/fontworks-fonts/Klee
+     - version: 8b0537 ( 2021/06/23 )
+   - DotGothic16
+     - src: https://github.com/fontworks-fonts/DotGothic16
+     - version: 95c2a57 ( 2021/06/22 )
+   - RocknRoll
+     - src: https://github.com/fontworks-fonts/RocknRoll
+     - version: ce0dc54 ( 2021/06/22 )
+   - Stick
+     - src: https://github.com/fontworks-fonts/Stick
+     - version: 069a110 ( 2021/06/22 )
+   - Reggae
+     - src: https://github.com/fontworks-fonts/Reggae
+     - version: 30a03d6 ( 2021/06/22 )
+ - license ( all OFL ) in separated folders under `src/`.
